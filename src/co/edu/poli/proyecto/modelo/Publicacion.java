@@ -59,7 +59,7 @@ public class Publicacion implements Serializable{
 	/**
      * 
      */
-    private int idpublicacion;
+    private int idPublicacion;
 
     /**
      * 
@@ -69,7 +69,7 @@ public class Publicacion implements Serializable{
     /**
      * 
      */
-    private int fechapublicacion;
+    private int fechaPublicacion;
 
     /**
      * 
